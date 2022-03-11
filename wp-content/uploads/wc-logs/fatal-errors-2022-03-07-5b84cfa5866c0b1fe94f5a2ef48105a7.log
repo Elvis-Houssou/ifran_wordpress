@@ -1,0 +1,2 @@
+2022-03-07T16:06:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12587008 bytes) dans C:\wamp64\www\ifran_wordpress\wp-includes\functions.php à la ligne 4195
+
